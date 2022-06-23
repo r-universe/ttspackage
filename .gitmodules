@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "trustedtimestamping"]
+	path = trustedtimestamping
+	url = https://github.com/ttspackage/tts
+	shallow = true
+	registered = true
